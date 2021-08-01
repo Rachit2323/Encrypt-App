@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">encrypt</string>
+    <string name="aes">AES</string>
+    <string name="todo">TODO</string>
+</resources>
